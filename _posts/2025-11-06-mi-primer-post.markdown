@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Este es mi primer post"
+date: 2025-10-11
 categories: jekyll update
 ---
 
