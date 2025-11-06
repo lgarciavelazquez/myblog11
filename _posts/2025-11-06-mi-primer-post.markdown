@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "Este es mi primer post"
 categories: jekyll update
 ---
 
