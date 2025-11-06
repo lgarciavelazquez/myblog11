@@ -1,7 +1,5 @@
 ---
 layout: post
-title:  "Este es el nuevo titulo"
-date:   2025-11-10 10:57:48 +0100
 categories: jekyll update
 ---
 
