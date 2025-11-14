@@ -23,7 +23,7 @@ email: lgarciavelazquez@educantabria.es
 description: >- # this means to ignore newlines until "baseurl:"
   Este es mi primer blog que he construido en el módulo de IAW con la genial
   ayuda del profesor excmo. mgfco. Luis Miguel...n.
-baseurl: "/myblog11" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://lgarciavelazquez.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lgarciavelazquez
 github_username:  lgarciavelazquez
