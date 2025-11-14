@@ -2,11 +2,22 @@
 layout: post
 title:  "Bienvenido a Jekyll!"
 date:   2025-11-04 10:57:48 +0100
+categories: jekyll update
 ---
+
+![Jekyll](assets/img/Jekyll.jpg)   
+
+![Jekyll](/assets/img/Jekyll.jpg)  
 
 ![Jekyll]({{ site.baseurl }}/assets/img/Jekyll.jpg)
 
-Este es el comienzo delpost. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+![Jekyll]({{"/assets/img/Jekyll.jpg"  | relative_url}})
+
+![Jekyll]({{ site.url }}{{ site.baseurl }}/assets/img/Jekyll.jpg) 
+
+![Jekyll]({{"/assets/img/Jekyll.jpg" | absolute_url}})
+
+Este es el comienzo del post. You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
 

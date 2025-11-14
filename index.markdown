@@ -9,4 +9,12 @@ Bienvenido a mi sitio web en **Jekyll**
 
 ![Jekyll](assets/img/Jekyll.jpg)
 
+![Jekyll](/assets/img/Jekyll.jpg)
 
+![Jekyll]({{ site.baseurl }}/assets/img/Jekyll.jpg)
+
+![Jekyll]({{"/assets/img/Jekyll.jpg"  | relative_url}})
+
+![Jekyll]({{ site.url }}{{ site.baseurl }}/assets/img/Jekyll.jpg) 
+
+![Jekyll]({{"/assets/img/Jekyll.jpg" | absolute_url}})
