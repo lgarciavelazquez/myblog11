@@ -16,10 +16,6 @@ URL del sitio:
 BASEURL del sitio:
 {{site.baseurl}}
 
-
-Listado de páginas:
-{{site.pages}}
-
 Titulo de la pagina:
 {{page.title}}
 
@@ -34,7 +30,7 @@ Vamos a mostrar algunas manera de insertar imagenes:
 
 ![whatsup]({{ site.url }}{{ site.baseurl }}/assets/img/whatsup.JPG){: .align-center }  
 
-![redes]({{ site.url }}/assets/img/redes.JPG){: .align-center }  
+![redes]({{ site.url }}{{ site.baseurl }}/assets/img/redes.JPG){: .align-center }  
 
 ![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/eoi.JPG){: .align-center }   
 
