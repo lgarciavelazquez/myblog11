@@ -2,7 +2,6 @@
 layout: post
 title:  "Bienvenido a Jekyll!"
 date:   2025-11-04 10:57:48 +0100
-categories: jekyll update
 ---
 
 ![Jekyll](Jekyll.jpg)
