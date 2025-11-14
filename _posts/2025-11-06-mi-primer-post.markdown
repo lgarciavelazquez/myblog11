@@ -34,6 +34,13 @@ Vamos a mostrar algunas manera de insertar imagenes:
 
 ![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/eoi.JPG){: .align-center }   
 
+![whatsup]({{"/assets/img/whatsup.JPG"  | relative_url}})
+
+![redes]({{"/assets/img/redes.JPG" | absolute_url}})  
+
+![eoi](/assets/img/eoi.JPG)   
+
+
 
 
 
