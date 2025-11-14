@@ -5,4 +5,8 @@
 layout: home
 ---
 
-Hola Don **pepito**. Hola D. Jose
+Bienvenido a mi sitio web en **Jekyll**
+
+![Jekyll](assets/img/Jekyll.jpg)
+
+
