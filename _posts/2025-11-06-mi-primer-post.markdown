@@ -20,20 +20,14 @@ BASEURL del sitio:
 Listado de páginas:
 {{site.pages}}
 
-Listado de posts:
-{{site.posts}}
-
 Titulo de la pagina:
 {{page.title}}
-
 
 URL de la pagina:
 {{page.url}}
 
-
 Categorias de la pagina:
 {{page.categories}}
-
 
 
 Vamos a mostrar algunas manera de insertar imagenes:
@@ -44,7 +38,7 @@ Vamos a mostrar algunas manera de insertar imagenes:
 
 ![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/eoi.JPG){: .align-center }   
 
-![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/Jekyll.jpg){: .align-center }  
+
 
 
 
