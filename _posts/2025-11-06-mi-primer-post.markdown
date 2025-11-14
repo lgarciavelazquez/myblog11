@@ -36,12 +36,16 @@ Categorias de la pagina:
 
 
 
-Vamos a mostrar algunas imagenes:
+Vamos a mostrar algunas manera de insertar imagenes:
 
 ![whatsup]({{ site.url }}{{ site.baseurl }}/assets/img/whatsup.JPG){: .align-center }  
 
 ![redes]({{ site.url }}/assets/img/redes.JPG){: .align-center }  
 
-![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/eoi.JPG){: .align-center }  
+![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/eoi.JPG){: .align-center }   
+
+![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/jekyll.png){: .align-center }  
+
+
 
 
