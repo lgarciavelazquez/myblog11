@@ -44,7 +44,7 @@ Vamos a mostrar algunas manera de insertar imagenes:
 
 ![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/eoi.JPG){: .align-center }   
 
-![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/jekyll.png){: .align-center }  
+![eoi]({{ site.url }}{{ site.baseurl }}/assets/img/Jekyll.png){: .align-center }  
 
 
 
