@@ -38,7 +38,7 @@ Vamos a mostrar algunas manera de insertar imagenes:
 
 ![redes]({{"/assets/img/redes.JPG" | absolute_url}})  
 
-![eoi]({{site.baseurl}}/assets/img/eoi.JPG)   
+![eoi]({{ site.baseurl }}/assets/img/eoi.JPG)   
 
 
 
